@@ -1,2 +1,0 @@
-# singsaab
-virusscanner
